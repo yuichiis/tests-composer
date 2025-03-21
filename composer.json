@@ -22,5 +22,5 @@
             "Yuichiis\\Tests\\Composer\\": "src/"
         }
     },
-    "bin": [ "bin/yuichiis-test" ]
+    "bin": [ "bin/yuichiis-test", "bin/yuichiis-test.bat" ]
 }

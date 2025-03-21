@@ -9,5 +9,5 @@ foreach($paths as $path) {
         break;
     }
 }
-$hello = new Yuichiis\Hello();
+$hello = new Yuichiis\Tests\Composer\Hello();
 $hello->say();
