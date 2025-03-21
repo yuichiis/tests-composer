@@ -6,6 +6,10 @@
     "license": "BSD-3-Clause",
     "repositories": [
         {
+            "packagist.org": false
+
+        },
+        {
             "type": "vcs",
             "url": "https://github.com/yuichiis/tests-composer"
         }
