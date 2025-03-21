@@ -10,7 +10,7 @@
 
         },
         {
-            "type": "vcs",
+            "type": "path",
             "url": "https://github.com/yuichiis/tests-composer"
         }
     ],    
