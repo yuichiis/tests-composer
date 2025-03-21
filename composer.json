@@ -1,0 +1,22 @@
+{
+    "name": "yuichiis/tests-composer",
+    "type": "test",
+    "description": "Test composer",
+    "keywords": ["test"],
+    "license": "BSD-3-Clause",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/yuichiis/tests-composer"
+        }
+    ],    
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Yuichiis\\Tests\\Composer\\": "src/"
+        }
+    },
+    "bin": [ "bin/yuichiis-tests" ]
+}
