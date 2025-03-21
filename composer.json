@@ -4,16 +4,6 @@
     "description": "Test composer",
     "keywords": ["test"],
     "license": "BSD-3-Clause",
-    "repositories": [
-        {
-            "packagist.org": false
-
-        },
-        {
-            "type": "path",
-            "url": "https://github.com/yuichiis/tests-composer"
-        }
-    ],    
     "require": {
         "php": "^8.1"
     },
